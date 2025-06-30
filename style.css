@@ -15,7 +15,7 @@ body {
 .background {
     background: url('AdobeStock_316781115.jpeg') no-repeat center center fixed;
     background-size: cover;
-    opacity: 0.75;
+    opacity: 0.5;
     position: fixed;
     top: 0; left: 0;
     width: 100%; height: 100%;
