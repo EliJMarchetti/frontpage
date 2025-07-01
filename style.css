@@ -96,3 +96,12 @@ header p {
     background-color: white;
     color: black;
 }
+
+.project-description {
+    font-size: 0.95rem;
+    color: #ccc;
+    margin-top: 0.5rem;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
